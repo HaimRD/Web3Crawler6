@@ -1,0 +1,8 @@
+LIBRARY Web3Crawler
+EXPORTS
+    Test_AddOne
+    Crawler_Init
+    Crawler_Start
+    Crawler_Stop
+    Crawler_GetStatusJson
+    Crawler_SearchText
